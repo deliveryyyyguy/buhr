@@ -4,7 +4,7 @@ Python 3+
 virtualenv
 $pip install virtualenv
 
-To download
+create virtual env
 
 $virtualenv io_env
 
